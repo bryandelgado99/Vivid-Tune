@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Onda</string>
+    <string name="now_playing_label">Reproduciendo ahora</string>
+    <string name="library_title">Tu biblioteca</string>
+    <string name="queue_title">A continuación</string>
+    <string name="add_music">Añadir audio</string>
+    <string name="favorites_filter">Favoritas</string>
+    <string name="all_tracks_filter">Todas</string>
+    <string name="play_action">Reproducir</string>
+    <string name="pause_action">Pausar</string>
+    <string name="next_action">Siguiente pista</string>
+    <string name="previous_action">Pista anterior</string>
+    <string name="shuffle_action">Modo aleatorio</string>
+    <string name="repeat_action">Repetir</string>
+    <string name="favorite_action">Me gusta</string>
+    <string name="open_queue_action">Abrir cola de reproducción</string>
+    <string name="cover_art_description">Portada del álbum</string>
+    <string name="swipe_hint">Desliza la portada o toca para pausar</string>
+    <string name="tracks_count_format">%1$d pistas</string>
+    <string name="empty_favorites">Aún no tienes pistas favoritas</string>
+    <string name="empty_favorites_hint">Toca el corazón en cualquier canción para guardarla aquí.</string>
+    <string name="shape_toggle_action">Cambiar forma de portada</string>
+    <string name="remove_imported_action">Quitar de la lista</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Onda",
+  "description": "Reproductor de música ligero con Material Expressive donde la portada es protagonista.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
